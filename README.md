@@ -2,11 +2,13 @@
 >  `*C*` - `*Algorithm*` - `*Data structure*`
 
 > _Project to be done in teams of 2 people (your team: KIMO Ouazmir, sakina Nouri)_
-## Contributors
+## Project Team
 
 <a href="https://github.com/Niceblueman/sorting_algorithms/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Niceblueman/sorting_algorithms" />
 </a>
+
+## Objectives
 
 1.  Sort an array of integers using the Selection sort algorithm. Find the smallest element and exchange it with the first position. Continue until the array is
     sorted.
