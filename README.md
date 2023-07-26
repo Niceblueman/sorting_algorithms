@@ -7,17 +7,11 @@
 > _Project to be done in teams of 2 people (your team: KIMO Ouazmir, sakina Nouri)_
 ## Project Team
 <center style="background-color:#e2e2ee; border-radius:6px; padding:12px;">
-<style>
-    img {
-        border: 3px solid #fefefe;
+<a href="https://github.com/Niceblueman/sorting_algorithms/graphs/contributors">
+  <img  style="border: 3px solid #fefefe;
         border-radius: 50%;
         box-shadow: 0px 0px 4px 1px #ccc;
-        width:80px;
-    }
-</style>
-
-<a href="https://github.com/Niceblueman/sorting_algorithms/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Niceblueman/sorting_algorithms" />
+        width:80px;"src="https://contrib.rocks/image?repo=Niceblueman/sorting_algorithms" />
 </a>
 </center>
 
