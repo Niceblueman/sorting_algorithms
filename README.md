@@ -4,7 +4,7 @@
 **`C`** - **`Algorithm`** - **`Data structure`** 
 </center>
 
-> _Project to be done in teams of 2 people (your team: KIMO Ouazmir, sakina Nouri)_
+> _Project to be done in teams of 2 people (KIMO Ouazmir, sakina Nouri) in ALX_
 ## Project Team
 <center style="background-color:#e2e2ee; border-radius:6px; padding:12px;">
 <a href="https://github.com/Niceblueman/sorting_algorithms/graphs/contributors">
